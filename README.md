@@ -49,4 +49,4 @@ Files | Description
 
 
 ### Authors
-* [Rhomeinel](https://github.com/rhomeinel) - [@rhomeienl](https://twitter.com/rhomeinel)
+Theophilus Dorh
